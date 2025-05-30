@@ -32,8 +32,7 @@ Install all dependencies with: pip install -r requirements.txt
 Contents of requirements.txt: tensorflow==2.3.0, tflearn, flask, numpy, pillow, opencv-python
 
 🛠️ Installation & Setup
-1. Clone the Repository: git clone https://github.com/your-username/glaucoma-detection-cnn.git
-cd glaucoma-detection-cnn
+1. Clone the Repository: git clone https://github.com/kushal1929/Glaucoma.git
 
 2. Create a Virtual Environment: python -m venv venv
 Activate it:
